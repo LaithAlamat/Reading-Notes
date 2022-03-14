@@ -7,5 +7,5 @@
 |SQL Practise|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/SQL%20Practice/SQLPractice.md)
 |TheCommandLine|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/theCommandLine.md)
 |Numbers Game|[Go To Link](https://github.com/LaithAlamat/Lab01a-NumbersGame/blob/master/README.md)
-|Read: 02 - Unit Tests & Documentation|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/Read:%2001%20-%20Exception%20Handling%20%26%20Debugging.md)
+
 
