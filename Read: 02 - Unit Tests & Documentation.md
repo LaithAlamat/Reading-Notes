@@ -7,4 +7,3 @@
 - You should try to create one assert per test method.  Each test forms a hypothesis and asserts it, no test should ever contain a number of assertions other than one.
 - Each test should handle its own setup.  The test runner will execute your stuff in whatever order it pleases. Avoid this interdependence.
 - Resist the impulse to abstract test setup to other classes, and especially resist the impulse to abstract it into a base class.
-- 
