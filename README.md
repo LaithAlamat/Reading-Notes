@@ -5,3 +5,4 @@
 |---------|:---------
 |SQL Practise|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/SQL%20Practice/SQLPractice.md)
 |TheCommandLine|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/theCommandLine.md)
+|Numbers Game|[Go To Link](https://github.com/LaithAlamat/Lab01a-NumbersGame/blob/master/README.md)
