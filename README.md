@@ -8,4 +8,5 @@
 |TheCommandLine|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/theCommandLine.md)
 |Numbers Game|[Go To Link](https://github.com/LaithAlamat/Lab01a-NumbersGame/blob/master/README.md)
 |Read: 02 - Unit Tests & Documentation|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/Read:%2002%20-%20Unit%20Tests%20%26%20Documentation.md)
+|ArrayInsertShift|[Go To Link](https://github.com/LaithAlamat/Data-Structures-And-Algorithms/blob/main/Class%2002/README.md)
 
