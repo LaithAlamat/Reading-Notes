@@ -12,6 +12,7 @@
 |Read: 03 - System.I.O|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/Read:%2003%20-%20System.I.O.MD)
 |Lab03 - System.I.O|[Go To Link](https://github.com/LaithAlamat/Lab03-System.IO/blob/main/README.md)
 |BinarySearch|[Go To Link](https://github.com/LaithAlamat/Data-Structures-And-Algorithms/blob/main/Class%2003/Binary-Search.md)
+|Classes & Objects|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/Read:%2004%20-%20Classes%20%26%20Objects.md)
 
 
 
