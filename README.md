@@ -16,6 +16,7 @@
 |Linked Lists|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/Read:%20Linked%20Lists.md)
 |Lab04 - TicTacToe|[Go To Link](https://github.com/LaithAlamat/Lab-04---Classes-Objects-tic-tac-toe-/blob/main/README.md)
 |Read: 06 - OOP Principles|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/Read:%2006%20-%20OOP%20Principles.md)
+|Read: 07 - Interfaces|[Go To Link](https://github.com/LaithAlamat/Reading-Notes/blob/main/Read:%2007%20-%20Interfaces.md)
 
 
 
