@@ -26,3 +26,29 @@ There are several ways this can be accomplished in EF Core:
 - Model seed data
 - Manual migration customization
 - Custom initialization logic
+
+## User Secrets
+
+User secrets is a secure way of storing private user information such as API keys, client secrets, and connection strings. Essentially anything that you don’t want others to know about when using your code base.
+
+We can do this by using the JSON file that we have that act like the .ENV file is javascript.
+
+These secrerts can be accessed by the configuration method that allows us to access them.
+
+## Data Seeding
+Data seeding is the process of populating a database with an initial set of data.
+
+There are several ways this can be accomplished in EF Core:
+
+- Model seed data
+- Manual migration customization
+- Custom initialization logic
+
+### Model Seeding
+Seeding data can be associated with an entity type as part of the model configuration. Then EF Core migrations can automatically compute what insert, update or delete operations need to be applied when upgrading the database to a new version of the model.
+
+### Manual migration customization
+When a migration is added the changes to the data specified with HasData are transformed to calls to InsertData(), UpdateData(), and DeleteData(). One way of working around some of the limitations of HasData is to manually add these calls or custom operations to the migration instead.
+
+## What is MVC Entity Framework?
+It is a data access framework which used to create and test data in the visual studio. It is part of . NET Framework and Visual Studio. The latest package is shipped as Entity Framework NuGet Package.
