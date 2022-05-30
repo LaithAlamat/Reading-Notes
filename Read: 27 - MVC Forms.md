@@ -86,4 +86,4 @@ Asynchronous AJAX form is a very magical way to submit data to the controller wi
 To make this happen, we will use JQuery-Unobstrusive-AJAX
 
 ### **PURE HTML FORMS WITH AJAX AND JQUERY**
-In this method, you can not only send data from input controls but can also use html elements like <p>…</p>, <span>…</span> to send data to controllers. This is pure JQuery and AJAX query.
+In this method, you can not only send data from input controls but can also use html elements  to send data to controllers. This is pure JQuery and AJAX query.
